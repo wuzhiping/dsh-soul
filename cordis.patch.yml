@@ -3,6 +3,7 @@
       name: dsh-soul
       inject: [tools, systemPrompt, commands]
       config:
+        profile: web
         enabled: false
         memory:
           enabled: true
